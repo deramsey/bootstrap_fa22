@@ -1,0 +1,15 @@
+main{
+    min-height: 30vh;
+}
+
+.tall {
+    min-height: 40vh;
+}
+
+.short{
+    min-height: 10vh;
+}
+
+article{
+   
+}
